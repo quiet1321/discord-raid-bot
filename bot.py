@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 from discord import app_commands
 from datetime import datetime
-
+import os
 # ===== НАСТРОЙКИ - ЗАМЕНИТЕ НА ВАШИ ID =====
 SETUP_CHANNEL_ID = 1503546309427331212   # ВСТАВЬТЕ ID КАНАЛА ДЛЯ КНОПКИ
 SIGNUP_CHANNEL_ID = 1503547476135772231  # ВСТАВЬТЕ ID КАНАЛА ДЛЯ ЗАПИСИ
